@@ -46,7 +46,7 @@ function handleFormSubmit(event) {  // handles form submit withtout any jquery
   event.preventDefault();           // we are submitting via xhr below
   var data = getFormData();         // get the values submitted in the form
 
-  var recaptcha = document.getElementById("g-recaptcha-response").val();
+  var recaptcha = grecaptcha.getResponse();
   if (recaptcha === "") {
      alert("Please check the reCaptcha");
      return;
