@@ -48,7 +48,7 @@ function handleFormSubmit(event) {  // handles form submit withtout any jquery
 
   var recaptcha = grecaptcha.getResponse();
   if (recaptcha === "") {
-     alert("Please check the reCaptcha");
+//      alert("Please check the reCaptcha");
      return;
   }
   
