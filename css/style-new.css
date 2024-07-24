@@ -434,6 +434,10 @@ header{
     left: 60px;
 }
 
+.person .fa-image{
+    left: 60px;
+}
+
 .person:hover .ment-ico {
     color:  #fec601;
     border: 1px solid  #fec601;
