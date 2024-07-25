@@ -91,8 +91,8 @@ header{
 
 .welcome{
     margin-top: 75px;
-    background-image: url(../background-travel.jpg);    
-    background-image: url(../background-travel.jpg);    
+    background-image: url(../img/background.jpg);    
+    /* background-image: url(../background.jpg);     */
     background-size: cover;        
     height: 80vh;        
     display: -webkit-flex;
