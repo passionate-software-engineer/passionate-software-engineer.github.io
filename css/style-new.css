@@ -74,7 +74,7 @@ header{
 }
 
 .navbar-nav .nav-item:hover{
-    background: 138496;        
+    background: #138496;        
     transition: 0.3s;
 }
 
@@ -112,7 +112,7 @@ header{
 }
 
 .welcome-text{
-    border: 1px solid ffffff;
+    border: 1px solid #ffffff;
     border-radius: 20px;
     background-color: rgba(19, 132, 150, 0.7);    
     height: 70vh;            
@@ -136,7 +136,7 @@ header{
 .welcome-text h1{
     font-size: 2.8vw;    
     line-height: 3.6vw;
-    color: ffffff;
+    color: #ffffff;
     font-weight: bold
 }
 
@@ -144,7 +144,7 @@ header{
     height: 20%;
     font-size: 1.8vw;    
     line-height: 3.6vw;
-    color: ffffff;
+    color: #ffffff;
 }
 
 .button-welcome{
@@ -154,18 +154,18 @@ header{
     width: 20%;
     height: 50px;
     border-radius: 10px;
-    background-color: fec601;
+    background-color: #fec601;
     border: none;
     font-size: 1.2em;
     font-weight: bold;
-    color: 138496;      
+    color: #138496;      
     transition: 0.2s;    
 }
 
 .button-welcome:hover{        
-    background-color:138496;    
-    color: fec601;    
-    border: 2px solid fec601;    
+    background-color:#138496;    
+    color: #fec601;    
+    border: 2px solid #fec601;    
     transition: 0.2s;    
 }
 
@@ -180,13 +180,13 @@ header{
 .learn-topic{
     text-align: center;
     padding-bottom: 20px;
-    border-bottom: 1px solid 138496;
+    border-bottom: 1px solid #138496;
     margin-bottom: 30px;
 }
 
 .learn-topic h2{    
     font-weight: bold;
-    color: 138496;
+    color: #138496;
     margin: 0;
 }
 
