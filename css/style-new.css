@@ -413,7 +413,8 @@ header{
     font-size: 14px;
     color: #6c7279;
     line-height: 21px; 
-    padding-bottom: 50px
+    padding-bottom: 50px;
+    text-align: justify;
 }
 
 .person .ment-ico {
